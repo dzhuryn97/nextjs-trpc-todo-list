@@ -4,6 +4,8 @@ Pet project to learn tRPC - a Todo list application with registration and authen
 
 ## Installation
 
+**Requirements**: Node.js 22 or higher
+
 ```bash
 # Install dependencies
 npm install
